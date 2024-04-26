@@ -9,3 +9,7 @@ wheels/
 # venv
 .venv
 .env
+
+# data
+data.jsonl
+embeddings.npy
